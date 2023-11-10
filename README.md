@@ -16,11 +16,7 @@ The goal of this project is to scrape data from the [creepjs](https://abrahamjul
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/varunmkumar09/array_web_scraping_assignment.git
+   git clone https://github.com/varunmkumar09/array_Web_scrap_assignment/
 cd your-repo
 npm install
 node scrape.js
-
-Make sure to replace the placeholder values such as `your-username`, `your-repo`, and adjust any other details based on your actual repository information.
-
-Feel free to add more sections or details to the README based on your project's requirements. Let me know if you have any specific information you'd like to include!
